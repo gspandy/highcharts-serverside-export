@@ -1,1 +1,11 @@
-/.settings
+.metadata
+.settings
+.classpath
+.project
+target
+Thumbs.db
+*.pdb
+*.log
+*.log.*
+build
+bin
