@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.one2team.highcharts.shared.ChartOptions;
 import org.one2team.highcharts.shared.Jsonify;
 
-public class ChartOptionTest {
+public class ChartOptionsTest {
 
 	@Test
 	public void test() {
